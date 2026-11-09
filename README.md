@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Prakash Gupta 👋</h1>
 
 <p align="center">
-  <strong>Full-Stack & Mobile Application Developer</strong><br />
-  Building practical, user-friendly web and mobile experiences.
+  <strong>AI Evaluation & Terminal Benchmarking · Full-Stack & Mobile Developer</strong><br />
+  Building reliable AI-agent evaluation workflows, web products, and mobile experiences.
 </p>
 
 <p align="center">
@@ -11,35 +11,41 @@
 
 ## About me
 
-I build web and mobile applications with JavaScript, TypeScript, React Native, and Android technologies. I enjoy turning product ideas into polished user flows, dependable integrations, and maintainable releases.
+I contribute to Terminal Benchmark tasks through Turing, helping evaluate AI agents in realistic terminal environments. Alongside AI evaluation, I build practical web and mobile applications with JavaScript, TypeScript, React Native, and Android technologies.
 
-- 🔭 Working on web and mobile product experiences
-- 🌱 Exploring modern app architecture, performance, and secure integrations
-- 💬 Ask me about JavaScript, TypeScript, React Native, Android, and Firebase
+- 🎯 Focused on AI-agent evaluation, terminal benchmarks, and reproducible task workflows
+- 🧪 Experienced with Turing terminal benchmark task work
+- 💬 Ask me about AI evaluation, terminal workflows, JavaScript, TypeScript, React Native, and Android
 
-## Tech stack
+## Priority expertise
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,kotlin,java,androidstudio,firebase,redux,git,github" alt="React, TypeScript, JavaScript, Kotlin, Java, Android Studio, Firebase, Redux, Git, GitHub" />
-</p>
+| Focus | What I work on |
+| --- | --- |
+| 🤖 AI-agent evaluation | Benchmark-style tasks that assess real agent behavior |
+| 🖥️ Terminal benchmarking | Terminal workflows, task clarity, and measurable completion criteria |
+| 🧪 Turing task work | Contributing to Terminal Benchmark tasks through Turing |
+| 🐳 Reproducible environments | Reliable, repeatable workflows for evaluating terminal-based tasks |
 
-## AI evaluation & Terminal-Bench exploration
+## Turing · Terminal Benchmark tasks
 
-I’m building practical experience in AI-agent evaluation and benchmark-style terminal workflows.
+My work with Turing centers on Terminal Benchmark tasks for AI-agent evaluation. I work on terminal-focused challenges where clear instructions, a controlled environment, and verifiable outcomes matter.
 
-- 🧪 Exploring task design, clear completion criteria, and repeatable evaluation
-- 🐳 Learning how containerized environments make terminal workflows reproducible
-- 🔍 Interested in testing agent behavior, validation strategies, and robust developer tooling
-
-## What I build
+### Selected work & project themes
 
 | Area | Focus |
 | --- | --- |
-| Web applications | Responsive front ends and tailored client websites |
-| Mobile apps | Cross-platform React Native applications for Android and iOS |
-| Android delivery | Native configuration, product flavors, and release builds |
-| Evaluation workflows | Reproducible tasks, validation, and AI-agent experimentation |
-| App foundations | Type-safe TypeScript, API integration, and reusable UI components |
+| Terminal task design | Building realistic CLI-oriented workflows with concrete completion conditions |
+| Evaluation criteria | Defining how task outcomes can be checked consistently |
+| Reproducible task environments | Working with controlled terminal setups for reliable task execution |
+| Agent-behavior analysis | Reviewing task behavior and improving task clarity and robustness |
+
+> Some task details and artifacts are not public because they are part of client or project work.
+
+## Engineering stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,docker,linux,react,ts,js,kotlin,java,androidstudio,firebase,redux,git,github" alt="Python, Docker, Linux, React, TypeScript, JavaScript, Kotlin, Java, Android Studio, Firebase, Redux, Git, GitHub" />
+</p>
 
 ## Contribution activity
 
