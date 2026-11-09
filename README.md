@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:123B6D,100:00B8D9&height=190&section=header&text=Terminal-Bench%203&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=AI-agent%20evaluation%20%7C%20Turing%20%7C%20Handshake%20AI&descAlignY=61&descSize=17&animation=fadeIn" width="100%" alt="Animated Terminal-Bench 3 profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:123B6D,100:00B8D9&height=190&section=header&text=Terminal-Bench%203&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=AI-agent%20evaluation%20%7C%20Turing%20%7C%20Handshake%20AI&descAlignY=61&descSize=17&animation=twinkling" width="100%" alt="Animated Terminal-Bench 3 profile header" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=0969DA&center=true&vCenter=true&width=820&lines=Designing+hard+terminal+tasks;Building+reproducible+AI-agent+evaluations;Turing+%C3%97+Handshake+AI+%C3%97+Terminal-Bench+3;Task+design+%C2%B7+Exact+verification+%C2%B7+Evidence" alt="Animated Terminal-Bench 3 profile headline" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=850&color=0F766E&center=true&vCenter=true&width=780&lines=%5BSTATUS%5D+TERMINAL-BENCH+3+%7C+ONLINE;%5BMODE%5D+DESIGN+%E2%86%92+RUN+%E2%86%92+VERIFY+%E2%86%92+EVIDENCE;%5BFOCUS%5D+TURING+%C3%97+HANDSHAKE+AI" alt="Animated Terminal-Bench 3 benchmark status" />
 </p>
 
 <h1 align="center">Hi, I'm Prakash Gupta 👋</h1>
@@ -53,6 +57,12 @@ Public profile summary only: confidential task details, private datasets, and cl
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=900&color=0F766E&center=true&vCenter=true&width=760&lines=%24+prepare+the+task+package;%24+launch+the+agent+in+a+sandbox;%24+check+the+artifact+and+the+tests;%24+separate+agent+failure+from+verifier+failure;%24+publish+evidence+that+can+be+reproduced+%E2%9C%93" alt="Animated terminal benchmark workflow" />
 </p>
 
+### ⚡ Animated task execution pipeline
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=850&color=0969DA&center=true&vCenter=true&width=820&lines=01+%7C+TASK+PACKAGE+%7C+REALISTIC+GOAL;02+%7C+SANDBOX+%7C+AGENT+RUN;03+%7C+ORACLE+%7C+EXACT+CHECKS;04+%7C+EVIDENCE+%7C+REPRODUCIBLE+RESULT" alt="Animated Terminal-Bench 3 task execution pipeline" />
+</p>
+
 ### Task engineering focus
 
 | Task area | What I optimize | Completion signal |
@@ -72,6 +82,10 @@ Public profile summary only: confidential task details, private datasets, and cl
 - **Benchmark quality engineering** — aligning task instructions, expected results, and verification logic.
 
 ## 🧠 Evaluation principles
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=800&color=F85149&center=true&vCenter=true&width=760&lines=QUALITY+GATE+%E2%9C%93+GOAL+IS+CONCRETE;QUALITY+GATE+%E2%9C%93+ENVIRONMENT+IS+CONTROLLED;QUALITY+GATE+%E2%9C%93+VERIFIER+OWNS+THE+TRUTH;QUALITY+GATE+%E2%9C%93+EVIDENCE+IS+EXPLAINABLE" alt="Animated benchmark quality gates" />
+</p>
 
 <details>
 <summary><strong>What makes a benchmark task trustworthy?</strong></summary>
@@ -107,6 +121,10 @@ Public profile summary only: confidential task details, private datasets, and cl
 </p>
 
 ## 📈 Contribution activity
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=850&color=0F766E&center=true&vCenter=true&width=760&lines=CONTRIBUTION+SIGNAL+%7C+ACTIVE;BUILD+%7C+TEST+%7C+VERIFY+%7C+SHIP;REPRODUCIBLE+WORK+%7C+VISIBLE+EVIDENCE" alt="Animated contribution signal" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Prakashgupta41532&theme=flat&no-frame=true&no-bg=true&margin-w=8" alt="Prakash's GitHub trophies" />
