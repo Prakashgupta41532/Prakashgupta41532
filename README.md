@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:123B6D,100:00B8D9&height=190&section=header&text=Terminal-Bench%203&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=AI-agent%20evaluation%20%7C%20Turing%20%7C%20Handshake%20AI&descAlignY=61&descSize=17&animation=twinkling" width="100%" alt="Animated Terminal-Bench 3 profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,25:123B6D,50:0969DA,75:0F766E,100:F85149&height=190&section=header&text=Terminal-Bench%203&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=AI-agent%20evaluation%20%7C%20Turing%20%7C%20Handshake%20AI&descAlignY=61&descSize=17&animation=twinkling" width="100%" alt="Animated Terminal-Bench 3 profile header" />
 </p>
 
 <p align="center">
@@ -8,6 +8,12 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=850&color=0F766E&center=true&vCenter=true&width=780&lines=%5BSTATUS%5D+TERMINAL-BENCH+3+%7C+ONLINE;%5BMODE%5D+DESIGN+%E2%86%92+RUN+%E2%86%92+VERIFY+%E2%86%92+EVIDENCE;%5BFOCUS%5D+TURING+%C3%97+HANDSHAKE+AI" alt="Animated Terminal-Bench 3 benchmark status" />
+</p>
+
+<p align="center">
+  <a href="#terminal-bench-3--turing--handshake-ai">◈ ENTER THE EVALUATION LAB ↓</a> ·
+  <a href="#animated-task-execution-pipeline">WATCH THE PIPELINE</a> ·
+  <a href="#contribution-activity">SEE THE SIGNAL</a>
 </p>
 
 <h1 align="center">Hi, I'm Prakash Gupta 👋</h1>
@@ -25,6 +31,10 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Prakashgupta41532&label=Profile%20views&color=0969DA&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=0969DA&center=true&vCenter=true&width=760&lines=SYSTEM+CHECK+%7C+BENCHMARK+ENGINEERING+ONLINE;REAL+TASKS+%7C+CONTROLLED+ENVIRONMENTS+%7C+CHECKABLE+EVIDENCE;BUILDING+AGENT+EVALUATIONS+WITH+INTENT" alt="Animated benchmark engineering system check" />
 </p>
 
 ## 👋 About me
@@ -73,6 +83,10 @@ Public profile summary only: confidential task details, private datasets, and cl
 | 🔁 **Reproducibility** | Controlled setup, deterministic dependencies, and repeatable runs | The result can be recreated by another evaluator |
 | 🔍 **Failure analysis** | Separating reasoning, verifier, and infrastructure failures | Each failure gets the right diagnosis |
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=950&color=0F766E&center=true&vCenter=true&width=760&lines=MISSION+LOG+%7C+TURN+REAL+WORK+INTO+HARD+TASKS;MISSION+LOG+%7C+MAKE+SUCCESS+MEASURABLE;MISSION+LOG+%7C+LEAVE+NO+AMBIGUOUS+EVIDENCE" alt="Animated benchmark mission log" />
+</p>
+
 ## 📌 Selected benchmark project themes
 
 - **Terminal-Bench 3 task development** — practical command-line challenges with concrete, testable outcomes.
@@ -100,6 +114,10 @@ Public profile summary only: confidential task details, private datasets, and cl
 
 </details>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=950&color=F85149&center=true&vCenter=true&width=760&lines=SKILL+RADAR+%7C+PYTHON+%2B+DOCKER+%2B+LINUX;SKILL+RADAR+%7C+TASKS+%2B+VERIFIERS+%2B+FAILURE+ANALYSIS;SKILL+RADAR+%7C+REACT+NATIVE+%2B+TYPESCRIPT+%2B+ANDROID" alt="Animated priority skills radar" />
+</p>
+
 ## 🛠 Priority skills
 
 <p align="center">
@@ -113,6 +131,10 @@ Public profile summary only: confidential task details, private datasets, and cl
 | 3 | Reproducible environments, validation, and verifier thinking |
 | 4 | Python, Docker, Linux, Bash, Git, and GitHub Actions |
 | 5 | React Native, TypeScript, Android, and production app delivery |
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=950&color=0969DA&center=true&vCenter=true&width=760&lines=TOOLCHAIN+ONLINE+%7C+SHELL+%E2%86%92+SANDBOX+%E2%86%92+VERIFIER;TOOLCHAIN+ONLINE+%7C+PYTHON+%E2%86%92+DOCKER+%E2%86%92+EVIDENCE;TOOLCHAIN+ONLINE+%7C+SHIP+WORK+THAT+CAN+BE+CHECKED" alt="Animated engineering toolchain" />
+</p>
 
 ## 💻 Engineering stack
 
